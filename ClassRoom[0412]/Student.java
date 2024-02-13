@@ -15,7 +15,7 @@ public class Student {
 		this.studentNum = num;
 	}
 
-	// 학생 정보 입력
+	// 학생 정보  + 수정사항 도미솔
 	public void inputData(String className) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println(className + " " + this.studentNum + "번째 학생의 정보를 입력해주세요.");

@@ -26,7 +26,7 @@ public class MainClass {
 		classRoom.add(new ClassRoom("B반"));
 		classRoom.add(new ClassRoom("C반"));
 		Scanner scanner = new Scanner(System.in);
-		
+		//메뉴추가
 		for (int i = 0; i < 999999; i++) {
 			System.out.println("메뉴를 입력해주세요.");
 			System.out.println("1. 학생선택");
