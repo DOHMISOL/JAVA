@@ -30,7 +30,7 @@ public class ClassRoom {
 			}
 		}
 		}
-	
+	///수정도미솔
 	public void callScore() {
 		for (int i = 0; i < index; i++ ) {
 			student[i].callInputScore(this.className); 
